@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Programming\\freelance\\DiscoNunu\\DiscoNunu\\DiscoNunu\\DiscoNunu.csproj": {}
+  },
+  "projects": {
+    "C:\\Programming\\freelance\\DiscoNunu\\DiscoNunu\\DiscoNunu\\DiscoNunu.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Programming\\freelance\\DiscoNunu\\DiscoNunu\\DiscoNunu\\DiscoNunu.csproj",
+        "projectName": "DiscoNunu",
+        "projectPath": "C:\\Programming\\freelance\\DiscoNunu\\DiscoNunu\\DiscoNunu\\DiscoNunu.csproj",
+        "packagesPath": "C:\\Users\\Администратор.000\\.nuget\\packages\\",
+        "outputPath": "C:\\Programming\\freelance\\DiscoNunu\\DiscoNunu\\DiscoNunu\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Администратор.000\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "Discord.Net": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

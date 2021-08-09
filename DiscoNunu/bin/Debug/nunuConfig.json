@@ -1,0 +1,31 @@
+{
+  "token": "ODczMjk4MTU4NTE4Njk4MDI1.YQ2YSg.1AFJFSmyapVpfLQETsP3yeqy8OM",
+  "servers": {
+    "S1": {
+      "name": "Server1",
+      "canTake": [],
+      "canRelease": [],
+      "takenEmoji": ":clock1:",
+      "freeEmoji": ":thumbsup:",
+      "takeReaction": ":clock1:",
+      "noticeReaction": ":thumbsup:",
+      "maxTime": 300,
+      "defaultTime": 30
+    },
+    "S2": {
+      "name": "Server2",
+      "canTake": [],
+      "canRelease": [],
+      "takenEmoji": ":clock1:",
+      "freeEmoji": ":thumbsup:",
+      "takeReaction": ":clock1:",
+      "noticeReaction": ":thumbsup:",
+      "maxTime": 300,
+      "defaultTime": 30
+    }
+  },
+  "mainChannel": "nunu_test",
+  "writeResponse": false,
+  "deleteCommand": true,
+  "prefix": "n!"
+}

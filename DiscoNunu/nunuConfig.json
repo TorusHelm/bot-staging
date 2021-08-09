@@ -1,0 +1,42 @@
+{
+  "token": "ODc0MzU2OTE1OTQ0MTg1OTA3.YRFyVQ.1CqZKsgAIdyoZ6EpS3skpGQPtbE",
+  "servers": {
+    "S1": {
+      "name": "Staging1",
+      "canTake": [],
+      "canRelease": [],
+      "takenEmoji": ":clock1:",
+      "freeEmoji": ":thumbsup:",
+      "takeReaction": ":clock1:",
+      "noticeReaction": ":thumbsup:",
+      "maxTime": 1440,
+      "defaultTime": 1440
+    },
+    "S2": {
+      "name": "Staging2",
+      "canTake": [],
+      "canRelease": [],
+      "takenEmoji": ":clock1:",
+      "freeEmoji": ":thumbsup:",
+      "takeReaction": ":clock1:",
+      "noticeReaction": ":thumbsup:",
+      "maxTime": 1440,
+      "defaultTime": 1440
+    },
+    "S3": {
+      "name": "Staging3",
+      "canTake": [],
+      "canRelease": [],
+      "takenEmoji": ":clock1:",
+      "freeEmoji": ":thumbsup:",
+      "takeReaction": ":clock1:",
+      "noticeReaction": ":thumbsup:",
+      "maxTime": 1440,
+      "defaultTime": 1440
+    }
+  },
+  "mainChannel": "занятость-staging",
+  "writeResponse": false,
+  "deleteCommand": true,
+  "prefix": "n!"
+}
